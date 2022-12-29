@@ -1,6 +1,6 @@
 ## Привет! 👋
 
-Меня зовут Алексей. Я WordPress разработчик.
+Меня зовут Алексей. Я Frontend/WordPress разработчик.
 
 ### Мой стек:
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
